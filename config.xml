@@ -1,0 +1,33 @@
+ <?xml version="1.0" encoding="utf-8"?>
+<widget id="com.example.quizdm" version="0.0.1">
+<name>AccDB</name>
+<description>
+Account Details
+</description>
+<author email="connect2ganesan@gmail.com" href="http://dreamguys.co.in">
+Account App
+</author>
+<feature name="http://api.phonegap.com/1.0/device" />
+<preference name="phonegap-version" value="2.9.0" />
+<preference name="permissions" value="none" />
+<preference name="orientation" value="portrait" />
+<preference name="target-device" value="universal" />
+<preference name="fullscreen" value="true" />
+<preference name="DisallowOverscroll" value="true" />
+<preference name="webviewbounce" value="false" />
+<preference name="stay-in-webview" value="false" />
+<preference name="prerendered-icon" value="true" />
+<preference name="ios-statusbarstyle" value="black-opaque" />
+<preference name="detect-data-types" value="true" />
+<preference name="exit-on-suspend" value="false" />
+<preference name="auto-hide-splash-screen" value="true" />
+<preference name="disable-cursor" value="false" />
+<preference name="android-minSdkVersion" value="7" />
+<preference name="android-installLocation" value="auto" />
+<preference name="show-splash-screen-spinner" value="false" />
+<preference name="android-windowSoftInputMode" value="stateHidden|adjustResize" />
+<!--content src="index.html" /-->
+<access origin="*" />
+</widget>
+
+
